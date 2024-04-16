@@ -1,0 +1,15 @@
+name: rb24
+channels:
+  - defaults
+dependencies:
+  - python=3.11.7
+  - conda-forge::bzip2
+  - matplotlib
+  - bottleneck
+  - dask
+  - netcdf4
+  - xarray
+  - hvplot
+  - ipykernel
+  - anaconda::graphviz
+prefix: /Users/hamiddashti/miniconda3/envs/rb24
